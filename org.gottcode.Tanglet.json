@@ -19,8 +19,8 @@
 			"sources": [
 				{
 					"type": "archive",
-					"url": "https://gottcode.org/tanglet/tanglet-1.5.2-src.tar.bz2",
-					"sha256": "3502d66446fc1bd5ca4b227b9df7a4ae3a4fd4dbfa97927eca240952df6391db"
+					"url": "https://gottcode.org/tanglet/tanglet-1.5.3-src.tar.bz2",
+					"sha256": "e3b3380edeea843dac9144128bf8272da95a1ac4805f6ecced8c4e9f76ab1291"
 				}
 			]
 		}
