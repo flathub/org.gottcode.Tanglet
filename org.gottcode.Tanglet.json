@@ -1,7 +1,7 @@
 {
 	"app-id": "org.gottcode.Tanglet",
 	"runtime": "org.kde.Platform",
-	"runtime-version": "5.15-21.08",
+	"runtime-version": "6.2",
 	"sdk": "org.kde.Sdk",
 	"command": "tanglet",
 	"rename-icon": "tanglet",
@@ -18,7 +18,7 @@
 	"modules": [
 		{
 			"name": "tanglet",
-			"buildsystem": "qmake",
+			"buildsystem": "cmake-ninja",
 			"sources": [
 				{
 					"type": "archive",
