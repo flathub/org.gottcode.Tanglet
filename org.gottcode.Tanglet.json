@@ -22,8 +22,8 @@
 			"sources": [
 				{
 					"type": "archive",
-					"url": "https://gottcode.org/tanglet/tanglet-1.6.1-src.tar.bz2",
-					"sha256": "4ffa954b7e27988b0f025d99d95fecda59cf1ae29b56239ab250370b3ad62b0b"
+					"url": "https://gottcode.org/tanglet/tanglet-1.6.2-src.tar.bz2",
+					"sha256": "971eac90fb9218b6c511e20a579eecc7d500c00e7e87452339bafdf43ac4ba7a"
 				}
 			]
 		}
