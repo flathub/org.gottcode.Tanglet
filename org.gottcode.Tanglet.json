@@ -1,7 +1,7 @@
 {
 	"app-id": "org.gottcode.Tanglet",
 	"runtime": "org.kde.Platform",
-	"runtime-version": "6.7",
+	"runtime-version": "6.8",
 	"sdk": "org.kde.Sdk",
 	"command": "tanglet",
 	"rename-icon": "tanglet",
@@ -22,8 +22,12 @@
 			"sources": [
 				{
 					"type": "archive",
-					"url": "https://gottcode.org/tanglet/tanglet-1.6.5.tar.bz2",
-					"sha256": "effdfdcf265436cc160d09c05f8712da416c00644e338817c13da8d0c6f1704b"
+					"url": "https://gottcode.org/tanglet/tanglet-1.6.6.tar.bz2",
+					"sha256": "705097fc54769380f9438b5b311085add0a6a06fb8ee20acd134fb4db16cc91f"
+				},
+				{
+					"type": "patch",
+					"path": "rename-icon.patch"
 				}
 			]
 		}
